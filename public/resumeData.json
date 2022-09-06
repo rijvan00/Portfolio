@@ -1,0 +1,57 @@
+{
+  "main": {
+    "name": "Rijvan Ahmad",
+    "occupation": "Professionally Passionate Full-Stack Web Developer",
+    "description": "I like to code things from scratch, and enjoy bringing ideas to life in the browser",
+    "image": "profilepic.jpeg",
+    "contactmessage": "If you like my work and have some cool projects to work on, just send me a direct message or contact me through social sites.",
+    "email": "rijvanahmad1382001@gmail.com",
+    "phone": "+919151336488",
+    "address": {
+      "city": "India",
+      "state": "Uttar Pradesh",
+      "zip": "201010"
+    },
+    "website": "https://rijvanahmad.com",
+    "resumedownload": "https://drive.google.com/uc?export=pdf&id=11QGA1R7JjHIsnXG1nJzUlHNvAXPN3Av7",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/rijvan-ahmad-b9b8a1177/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/rijvan00",
+        "className": "fa fa-github"
+      },
+
+      {
+        "name": "email",
+        "url": "https://mailto:rijvanahmad1382001@gmail.com",
+        "className": "fa fa-envelope"
+      },
+      {
+        "name": "phone",
+        "url": "tel:+91 9151336488",
+        "className": "fa fa-phone"
+      }
+    ]
+  },
+  "resume": {
+    "education": [
+      {
+        "school": "United College of Engineering and Reaearch",
+        "degree": "B Tech CSE ",
+        "graduated": "Aug 2019-July 2023",
+        "description": "I am Pursuing Bachelor Of Technology in Computer Science and Engineering from United College of Engineering and Reaearch (Greater Noida). A highly reputed college in Greater Noida, I have an average of all semester in  B.Tech in Computer Science and Engineering is CGPA of 8 out of 10."
+      },
+      {
+        "school": "New Standard Public School",
+        "degree": "PCM with Computer Science",
+        "graduated": "former student",
+        "description": "I am a former student of New Standard Public School, Tripula Reacbareli. I have completed my Intermediate with PCM with Computer Science from New Standard Public School. I have secured an aggregate of 87% during the academic year."
+      }
+    ]
+  }
+}
